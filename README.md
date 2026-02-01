@@ -2,6 +2,8 @@
 
 **A multifunctional IoT project combining stopwatch, real-time clock, and 3D starfield animation**
 
+![device](images/device.png)
+
 ---
 
 ## 📌 Description
@@ -41,7 +43,7 @@ Before compiling and uploading the code, ensure these libraries are installed th
 ---
 
 ## 🛠️ Wiring Diagram
-
+![device](images/scheme.png)
 Connect your hardware according to the following pin assignments:
 
 | Component          | ESP32-C3 Pins       |
